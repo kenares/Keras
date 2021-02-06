@@ -1,1 +1,1 @@
-# Master Python Keras for Machine Learning and Deep Learning
+# Explore Python-Keras for Machine Learning and Deep Learning
