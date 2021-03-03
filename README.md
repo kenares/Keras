@@ -5,5 +5,3 @@
 * <b>Perform and study basic regression principles with Tensorflow Keras</b><br>
 * <b>Fine-Tune Bert Transformer for Text classification</b><br>
 * <b>Advanced Time series forecasting with Tensorflow</b><br>
-
-<right><i>by Kenneth Aristide PIWELE KOUMBA</i></right>
