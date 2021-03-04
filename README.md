@@ -1,4 +1,4 @@
-# Explore Python-Keras for Machine Learning and Deep Learning
+# Explore Python-Keras for Machine Learning and NLP
 
 * <b>Transformers Architecture - Attention Is All You Need</b><br>
 * <b>Classification of highly imbalanced data</b><br>
